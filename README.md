@@ -18,13 +18,13 @@ git clone https://github.com/the4thparadigm/denvercrime.git
 ```
 2. Create a virtual environment called `venv` in the project root directory and activate it
 ```bash
+cd denvercrime
 virtualenv --python=python3 venv  # confirm any messages to create
 echo "source venv/bin/activate" >> source_me.sh
 source source_me.sh
 ```
 3. Create your own branch to work on
 ```bash
-cd denvercrime
 git branch mybranch
 git checkout mybranch
 ```
