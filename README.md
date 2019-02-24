@@ -26,6 +26,7 @@ source source_me.sh
 ```bash
 cd denvercrime
 git branch mybranch
+git checkout mybranch
 ```
 4. Install packages from requirements.txt using `pip` in the project root directory
 ```bash

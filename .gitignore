@@ -1,7 +1,5 @@
 # VIRTUALENV #
-bin/*
-include/*
-lib/*
+venv
 pip-selfcheck.json
 share/
 source_me.sh
